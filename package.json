@@ -1,0 +1,13 @@
+{
+  "name": "ocr-engine",
+  "private": true,
+  "dependencies": {
+    "aws-sdk": "^2.721.0",
+    "canvas": "^2.6.1",
+    "typescript": "^3.9.7"
+  },
+  "prettier": {
+    "singleQuote": true,
+    "useTabs": true
+  }
+}
